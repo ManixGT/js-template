@@ -1,5 +1,11 @@
-#Js_Promise_basic_to_advance
+# 📜 JS Promise: Basic to Advanced
 
-- .then activates on resolve():FullFilled Promise State
-- .catch activates on reject():Rejected Promise State
-- .then & .catch exists on the prototype chain of the promise instance (__proto__);
+## Core Concepts
+
+- ✅ `.then()` activates when `resolve()` is called → **Promise moves to "Fulfilled" state.**
+- ❌ `.catch()` activates when `reject()` is called → **Promise moves to "Rejected" state.**
+- 🛠️ `.then()` and `.catch()` are available on the **prototype chain** (`__proto__`) of a Promise instance.
+
+---
+
+> Mastering JavaScript! 🚀
