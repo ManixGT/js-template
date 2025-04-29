@@ -1,1 +1,1 @@
-console.log('Js Promise');
+console.log('Js Promise Polyfills');
