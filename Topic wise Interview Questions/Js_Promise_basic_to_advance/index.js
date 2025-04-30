@@ -1,3 +1,4 @@
+//#Not a basic promise theory
 function init() {
     const executorFn = (resolve, reject) => {
         resolve(10); // PENDING TO FULLFILLED
